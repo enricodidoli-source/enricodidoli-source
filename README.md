@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I am passionate about implementing Artificial Intelligence and Deep Learning to solve complex real-world problems, with experience in the biomedical sector.
 
+---
+
 ### About Me
 
 * I recently wrote my Master's thesis on **Measurable Residual Disease (MRD) detection in B-cell Acute Lymphoblastic Leukaemia** using Convolutional Neural Networks ([CellCNN](https://github.com/eiriniar/CellCnn)) applied to flow cytometry data.
