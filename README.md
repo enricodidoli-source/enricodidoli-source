@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am passionate about implementing Artificial Inte
 
 ###  Projects I have worked on
 
-* [**master-thesis**](https://github.com/enricodidoli-source/master-thesis) — An end-to-end deep learning pipeline employing **CellCNN**, **Bayesian tuning**, and ensemble techniques to detect Measurable Residual Disease in B-cell Acute Lymphoblastic Leukaemia at sample level from flow cytometry data, using **semi-supervised learning**.
-* [**calibration-across-domains-image-dataset**](https://github.com/enricodidoli-source/calibration-across-domains-image-dataset) — A framework to explore and compare **Temperature Scaling** and **Isotonic Regression** for model calibration in image classification tasks using the CIFAR-10 dataset.
-* [**maze-algorithms**](https://github.com/enricodidoli-source/maze-algorithms) — A comparative analysis of various **maze generation algorithms**, evaluating their generation time and complexity by utilizing the **A\* algorithm** as a solving agent.
+* [**Master Thesis: Measurable Residual Disease (MRD) detection**](https://github.com/enricodidoli-source/master-thesis) — An end-to-end deep learning pipeline employing **CellCNN**, **Bayesian tuning**, and ensemble techniques to detect Measurable Residual Disease in B-cell Acute Lymphoblastic Leukaemia at sample level from flow cytometry data, using **semi-supervised learning**.
+* [**Calibration across domains (image dataset)**](https://github.com/enricodidoli-source/calibration-across-domains-image-dataset) — A framework to explore and compare **Temperature Scaling** and **Isotonic Regression** for model calibration in image classification tasks using the CIFAR-10 dataset.
+* [**Maze Generation Algorithms**](https://github.com/enricodidoli-source/maze-algorithms) — A comparative analysis of various **maze generation algorithms**, evaluating their generation time and complexity by utilizing the **A\* algorithm** as a solving agent.
 
