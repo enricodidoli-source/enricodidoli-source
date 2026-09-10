@@ -6,13 +6,20 @@ Welcome to my GitHub profile! I am passionate about implementing Artificial Inte
 
 ### About Me
 
-* 🎓 I recently wrote my Master's thesis on **Measurable Residual Disease (MRD) detection in B-cell Acute Lymphoblastic Leukaemia** using Convolutional Neural Networks (CellCNN by ) applied to flow cytometry data.
-* 🧠 **Interests:** Deep Learning, Hyperparameter Tuning (Bayesian Optimization), Computer Vision, and Data Analysis.
-* 🌱 **Currently learning:** Advanced ML architectures and optimizing models for performance and scalability.
-* 💡 **Goal:** To build robust, modular, and impactful AI models.
+* I recently wrote my Master's thesis on **Measurable Residual Disease (MRD) detection in B-cell Acute Lymphoblastic Leukaemia** using Convolutional Neural Networks (CellCNN by ) applied to flow cytometry data.
+* **Interests:** Deep Learning, Hyperparameter Tuning (Bayesian Optimization), Computer Vision, and Data Analysis.
+* **Currently learning:** Advanced ML architectures and optimizing models for performance and scalability.
+
 ---
 
-### 💻 Tech Stack & Tools
+###  Projects I have worked on
+
+* [**master-thesis**](https://github.com/enricodidoli-source/master-thesis) — An end-to-end deep learning pipeline employing **CellCNN**, **Bayesian tuning**, and ensemble techniques to detect Measurable Residual Disease in B-cell Acute Lymphoblastic Leukaemia at sample level from flow cytometry data, using **semi-supervised learning**.
+* 📊 [**calibration-across-domains-image-dataset**](https://github.com/enricodidoli-source/calibration-across-domains-image-dataset) — A framework application designed to explore and compare **Temperature Scaling** and **Isotonic Regression** by analyzing image data (CIFAR-10) on image classification.
+* ⚙️ [**maze-algorithms**](https://github.com/enricodidoli-source/maze-algorithms) — A project that compares several **maze generation algorithms** on generation time and complexity from a solver point of view. A* algorithm employed as a solver agent.
+
+
+### Tech Tools
 
 **Languages & Data Science:**
 <br>
@@ -36,14 +43,6 @@ Welcome to my GitHub profile! I am passionate about implementing Artificial Inte
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enricodidoli-source&show_icons=true&theme=radical&hide_border=true" alt="Enrico's GitHub Stats" />
-</div>
-
----
-
-### 📫 Let's Connect!
+### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-profilo-linkedin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:la.tua.email@gmail.com)
