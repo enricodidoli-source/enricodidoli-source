@@ -45,7 +45,5 @@ Welcome to my GitHub profile! I am passionate about implementing Artificial Inte
 ---
 
 ### 📫 Let's Connect!
-
-<!-- Add your actual links below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-profilo-linkedin/)
-[![Email](https://img.shields.io/badge/Email-D148
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:la.tua.email@gmail.com)
